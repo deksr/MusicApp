@@ -1,1 +1,2 @@
-+![Build Status](https://travis-ci.org/musicApp?branch=master)
++![Build Status](https://travis-ci.com/deksr/MusicApp.svg?branch=master)
+
